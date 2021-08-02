@@ -41,7 +41,7 @@ public:
 	{
 
 
-
+		//
 		double minVal = min(dblStart, dblFinish);
 		double maxVal = max(dblStart, dblFinish);
 
