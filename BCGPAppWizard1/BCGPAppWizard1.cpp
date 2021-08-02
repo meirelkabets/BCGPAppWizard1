@@ -29,7 +29,7 @@ CBCGPAppWizard1App::CBCGPAppWizard1App()
 	// TODO: add construction code here,
 	// Place all significant initialization in InitInstance
 }
-
+//
 
 // The one and only CBCGPAppWizard1App object
 
