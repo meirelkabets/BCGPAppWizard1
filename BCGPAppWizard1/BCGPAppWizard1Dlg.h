@@ -39,6 +39,9 @@ public:
 	void OnUpdateChart();
 	inline double Rand(double dblStart, double dblFinish)
 	{
+
+
+
 		double minVal = min(dblStart, dblFinish);
 		double maxVal = max(dblStart, dblFinish);
 
